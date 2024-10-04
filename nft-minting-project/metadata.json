@@ -1,0 +1,15 @@
+{
+  "name": "My Awesome NFT",
+  "description": "This is a description of my awesome NFT",
+  "image": "https://example.com/image.png",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Power",
+      "value": 100
+    }
+  ]
+}
